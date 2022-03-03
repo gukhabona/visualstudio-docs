@@ -1,96 +1,43 @@
----
-title: Start developing Visual Studio extensions | Microsoft Docs
-description: Get answers to some of the common questions that you may have the first time you start to write a Visual Studio extension.
-ms.custom: SEO-VS-2020
-ms.date: 09/18/2017
-ms.topic: conceptual
-helpviewer_keywords:
-- getting started, Visual Studio integration
-- Visual Studio, integration
-ms.assetid: 8fe5e2ab-a424-4173-9d39-dd082c4d58d0
-author: leslierichardson95
-ms.author: lerich
-manager: jmartens
-ms.technology: vs-ide-sdk
-ms.workload:
-- vssdk
----
-# Start developing extensions in Visual Studio
+# Watch 'The Batman 2022' Free online streaming Here's at-home
 
-If you've never written a Visual Studio extension before, you probably have some questions. We've listed some of the most common ones here. If you don't see the information you're looking for, use the feedback buttons (**Is this page helpful?** in the upper right of the screen) to ask for what you want.
+DC Comic Movie! Here’s options for downloading or watching The Batman streaming the full movie online for free on 123movies & Reddit, including where to watch the Robert Pattinson movie at home. Is The Batman 2022 available to stream? Is watching The Batman on Disney Plus, HBO Max, Netflix or Amazon Prime? Yes we have found an authentic streaming option / service.
 
-> [!NOTE]
-> This article applies to Visual Studio on Windows. For Visual Studio for Mac, see [Extending Visual Studio for Mac](/previous-versions/visualstudio/mac/extending-visual-studio-mac-walkthrough). For Visual Studio Code, see [Visual Studio Code Extension API](https://code.visualstudio.com/api).
+==================================
 
-## What software do I need to develop Visual Studio extensions?
+[CLICK HERE TO WATCH & DOWNLOAD NOW](https://zitstreams.com/en/movie/414906/the-batman)
 
-You need to install the Visual Studio SDK in addition to Visual Studio in order to develop Visual Studio extensions. You can install the Visual Studio SDK as part of regular setup, or you can install it later on. For more information about installing the Visual Studio SDK, see [Install the Visual Studio SDK](../extensibility/installing-the-visual-studio-sdk.md).
+==================================
 
-## What kinds of things can I do with Visual Studio extensions?
+Watch Now: The Batman 2022 Movie Online Free Director Matt Reeves’ take on Batman will be released soon, starring Robert Pattinson as the shadowy superhero. The Batman, the latest in a long line of Batman movies, will hit theaters in March; advance tickets go on sale on Feb. 10.
 
-The sky's the limit when it comes to imagining different Visual Studio extensions. Of course, most extensions have something to do with writing code, but that doesn't have to be the case. Here are some examples of the kinds of extensions you can build:
+Given that The Batman is being distributed by Warner Bros. Pictures, it makes sense to expect it to swiftly hit HBO Max, thanks to the much-discussed (and derided by filmmakers) day-and-date release model. However, the situation has changed in 2022. Scroll down for everything you need to know on how to watch The Batman.
 
-- Support for languages that aren't included in Visual Studio, with syntax coloring, IntelliSense, and compiler and debug support
+When does The Batman come out?
 
-- Productivity tools that extend the core IDE experience with additional templates, code refactoring, new dialogs or tool windows
+The Batman exclusively hits theaters in the US and the UK on March 4, and in Australia on March 3.
 
-- Domain-specific designers for scenarios like data design or cloud support
+Thought the movie would come out earlier? It was originally scheduled to hit theaters last June.
 
-For examples of extensions, check out the [Visual Studio Marketplace](https://marketplace.visualstudio.com/vs). Many extensions are open sourced, and the Marketplace includes links to their GitHub repo.
+Where to Watch The Batman 2022:
 
-## Which Visual Studio features can I extend?
+For now, the only way to watch The Batman 2022 is to go to a movie theater. The Batman 2022 will open in theaters in the U.S on February 11, 2022. You can find tickets at a theater near you here.
 
-In theory, you can extend just about any part of Visual Studio: menus, toolbars, commands, windows, solutions, projects, editors, and so on.
+After the movie’s theatrical run, you will be able to stream The Batman 2022 on Paramount+, the Paramount streaming service. Paramount+ offers a premium plan priced at $9.99/month or an ad-supported plan for $5.99/month. You’ll also be able to rent The Batman 2022 on digital platforms like Amazon Prime, iTunes, YouTube, Google Play, and more.
 
-In practice, we have found that the features most people want to extend are commands, menus and toolbars, windows, IntelliSense, and projects. Here are links to the relevant sections:
+Will I Watch The Batman 2022 On HBO Max?
 
-- [Extending Menus and Commands](../extensibility/extending-menus-and-commands.md): add your own items to Visual Studio menus and toolbars. You can use them to launch new Visual Studio functionality or your own external helper applications. You can also provide custom shortcuts for your menu items.
+Yes — with a but. The Batman will be available for streaming on HBO Max, but not until 45 days after its theatrical release date. Let’s discuss Warner Bros.’s controversial “day-and-date” release plan.
 
-- [Extending and Customizing Tool Windows](../extensibility/extending-and-customizing-tool-windows.md): extend existing tool windows or create your own tool windows. For instance, you could add new properties to the **Properties**, or you could create a new tool window to add additional features.
+Last year, theater companies struck a deal with Warner Bros. to show the studio’s 2022 slate on the big screen during a 45-day window. If The Batman had kept its original 2021 release date, it might have gone straight to HBO Max. But that’s not the case.
 
-- [Editor and Language Service Extensions](../extensibility/editor-and-language-service-extensions.md): add your own customizations to the IntelliSense provided for Visual Studio languages, or create support for new programming languages. You can create new statement completions, suggestions, and new QuickInfo tooltips. With light bulbs, you can add refactoring suggestions and code fixes to support new programming languages.
+Is The Batman 2022 Available On Hulu?
 
-- [Extending Projects](../extensibility/extending-projects.md)
+Viewers are saying that they want to view the new TV show The Batman 2022 on Hulu. Unfortunately, this is not possible since Hulu currently does not offer any of the free episodes of this series streaming at this time. It will be exclusive to the MTV channel, which you get by subscribing to cable or satellite TV services. You will not be able to watch it on Hulu or any other free streaming service.
 
-- [Extending User Settings and Options](../extensibility/extending-user-settings-and-options.md)
+When Will The Batman 2022 On Disney+?
 
-- [Extending Properties and the Property Window](../extensibility/extending-properties-and-the-property-window.md)
+Disney and Marvel recently announced the first content stream for their new streaming service Disney+. Among all the live-action shows, there is one in particular that fans are excited about.
 
-- [Extending Other Parts of Visual Studio](../extensibility/extending-other-parts-of-visual-studio.md)
+That’s right! The highly anticipated drama series based on Kevin Williamson & Wes Craven’s The Batman 2022 comic book will be included in the lineup of shows streamed on Disney+. When will The Batman 2022 be released?
 
-- [Visual Studio Isolated Shell](https://visualstudio.microsoft.com/vs/older-downloads/isolated-shell/)
-
-## <a name="BKMK_ProjectTemplate"></a> What project templates are provided by the VSSDK?
- The two main types of extensions are VSPackages and MEF extensions. In general, VSPackage extensions are used for extensions that use or extend commands, tool windows, and projects. MEF extensions are used to extend or customize the Visual Studio editor.
-
- For Visual C# and Visual Basic extensions, the VSSDK provides an empty VSIX project template that you can use together with the new item templates that create menu commands, tool windows, and editor extensions. You can also use this template to package project templates, code snippets, and other artifacts for distribution to other users.
-
- For C++, the VSPackage wizard provides the code to add menu commands, tool windows, and custom editors.
-
- The Isolated Shell template is used to package an extension in a version of the Visual Studio shell that you can brand and distribute as your own. The following topics show you how to get started with each kind of extension:
-
-- Menu commands: [Creating an Extension with a Menu Command](../extensibility/creating-an-extension-with-a-menu-command.md)
-
-- Tool windows: [Creating an Extension with a Tool Window](../extensibility/creating-an-extension-with-a-tool-window.md)
-
-- Editor extensions: [Creating an Extension with an Editor Item Template](../extensibility/creating-an-extension-with-an-editor-item-template.md)
-
-- Basic VSPackages: [Creating an Extension with a VSPackage](../extensibility/creating-an-extension-with-a-vspackage.md)
-
-- VSIX project template: [Getting Started with the VSIX Project Template](../extensibility/getting-started-with-the-vsix-project-template.md)
-
-## How do I get my extension to look like Visual Studio?
- Get great tips for designing the UI for your extension in [Visual Studio User Experience Guidelines](../extensibility/ux-guidelines/visual-studio-user-experience-guidelines.md).
-
-## Where can I find examples of VSSDK code?
- Each of the links listed in the preceding section have step-by-step walkthroughs that show you how to implement specific features. You can also find open source VSSDK samples on GitHub at [Visual Studio Samples](https://github.com/Microsoft/VSSDK-Extensibility-Samples).
-
-## How can I distribute my extension?
- You can install your extension on another computer or send it to your friends as a .vsix file, which you install by double-clicking it. You can find out more about VSIX packages at [Shipping Visual Studio Extensions](../extensibility/shipping-visual-studio-extensions.md).
-
- You can also publish your extension on the Visual Studio Marketplace, which makes it visible to large numbers of Visual Studio customers. For an example of packaging an extension to the Marketplace, see [Walkthrough: Publishing a Visual Studio Extension](../extensibility/walkthrough-publishing-a-visual-studio-extension.md). For more information about what you need to do to publish on the Marketplace, see [Products and Extensions for Visual Studio](/azure/devops/extend/overview?view=vsts&preserve-view=true).
-
-## See also
-
-- [Extending Visual Studio for Mac](/previous-versions/visualstudio/mac/extending-visual-studio-mac-walkthrough)
-- [Extending Visual Studio Code](https://code.visualstudio.com/api)
+We don’t know the exact date yet, but we know that the first season of the series will consist of 10 episodes running 45 minutes each. But what many fans have been asking is this: When exactly does The Batman 2022 release? So far, there are no official sources to give.
